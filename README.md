@@ -1,7 +1,6 @@
 # SIH-i-Connect
 
-https://anuragsingh6242.github.io/SIH-i-Connect/main.html <<-- Site Link
-
+Site Link -->> https://anuragsingh6242.github.io/SIH-i-Connect/main.html
 
 Our project : “ i – Connect ” is a  web-based START Up Model aimed  at mapping INDIA's social as well as  infrastructural growth.
 
